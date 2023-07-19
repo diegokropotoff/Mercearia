@@ -1,0 +1,8 @@
+Banana|2.50|Alimentos|96
+Maçã|1.50|Alimentos|70
+Hortelã|0.25|Alimentos|45
+Blush|45|Beleza|57
+Rímel|26|Beleza|51
+Hidratante|46|Cosméticos|85
+Protetor|70|Cosméticos|86
+Pastilha de freio|150|Automóveis|50
